@@ -1,0 +1,8 @@
+git status (for status)
+git init (Initialization)
+git add .(for all files)
+git add "filename"
+git commit -m"Ml"
+git branch -M main
+git remote add origin https://github.com/SajidMajeed92/test-1.git
+git push -u origin main
